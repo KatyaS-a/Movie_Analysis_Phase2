@@ -3,7 +3,7 @@
 
 
 ### Overview
-**Data sources** * *(for 2010 - 1019)* *:
+**Data sources** *(for 2010 - 1019)*:
  - [IMDb](https://www.imdb.com);
  - [The Numbers](https://www.the-numbers.com) 
 
