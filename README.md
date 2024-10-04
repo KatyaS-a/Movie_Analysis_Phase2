@@ -3,20 +3,19 @@
 
 
 ### Overview
-**Data sources:**
+**Data sources** * *(for 2010 - 1019)* *:
  - [IMDb](https://www.imdb.com);
  - [The Numbers](https://www.the-numbers.com) 
-We have 2010 - 2019 movie data.
 
 
-The **goal** is to identify top
+**The goal is to identify top**
 - genres,
 - directors,
 - producers,
 - actors,
 - actresses.
   
-Focus on **two metrics**:
+**Focus on two metrics**:
 1) average return on investment (ROI);
 2) average profit 
 
