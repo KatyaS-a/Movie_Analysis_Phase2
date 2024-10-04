@@ -1,12 +1,20 @@
-# Maximizing Profits and ROI. Movie Genre and Talent Insights for Studio Success
+# Maximizing Profits and ROI. 
+# Movie Genre and Talent Insights for Studio Success
 
 
 ### Overview
 **Data sources:**
  - [IMDb](https://www.imdb.com);
- - [The Numbers](https://www.the-numbers.com)
-We have 2010 - 2019 movie data
-**Goal** is to identify top genres, directors, producers, actors, and actresses
+ - [The Numbers](https://www.the-numbers.com) 
+
+We have 2010 - 2019 movie data.
+The **goal** is to identify 
+- top genres,
+- directors,
+- producers,
+- actors,
+- actresses.
+  
 Focus on **two metrics**:
 1) average return on investment (ROI);
 2) average profit 
