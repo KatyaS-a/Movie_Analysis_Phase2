@@ -6,10 +6,11 @@
 **Data sources:**
  - [IMDb](https://www.imdb.com);
  - [The Numbers](https://www.the-numbers.com) 
-
 We have 2010 - 2019 movie data.
-The **goal** is to identify 
-- top genres,
+
+
+The **goal** is to identify top
+- genres,
 - directors,
 - producers,
 - actors,
