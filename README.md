@@ -1,5 +1,4 @@
-# Maximizing Profits and ROI. 
-# Movie Genre and Talent Insights for Studio Success
+# Maximizing Profits and ROI. Movie Genre and Talent Insights for Studio Success
 
 
 ### Overview
@@ -18,6 +17,7 @@
 **Focus on two metrics**:
 1) average return on investment (ROI);
 2) average profit 
+
 
 
 ### Top 10 Genre Categories by ROI
