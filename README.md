@@ -1,5 +1,4 @@
-# Maximizing Profits and ROI
-#### Genre and Talent Insights for Studio Success
+# Maximizing Profits and ROI. Genre and Talent Insights for Studio Success
 
 
 ### Overview
